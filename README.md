@@ -7,6 +7,7 @@ Aplicação para gerenciamento de receitas pessoais desenvolvido no curso Ignite
 
 - HTML
 - CSS
+- Typescript
 - Styled-components
 - Reactjs
 - Miragejs
